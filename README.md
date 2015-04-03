@@ -10,9 +10,15 @@ Le but de jeu est de:
 
 Progress
 ========
+- step zero
+ * definir une architecture
+
 - Step one
   * Charger et afficher/visualiser/diffuser un fichier
-  
+    * [ ] Image
+    * [ ] Musique
+    * [ ] Film
+
 - Step two
   * Choisir des Shakes et trouver un moyen de les appliquer
   
